@@ -1,0 +1,7 @@
+file_name,products_count,error
+anntaylor.com_clothing_11.01.2023_new_filtered.csv,,missing column! local variable 'price' referenced before assignment
+cherrybook.com_cat_1_filtered.csv,47.0,
+tiptopshoes.com_collections_boys_24112023_filtered.csv,160.0,
+tiptopshoes.com_collections_girls_24112023_filtered.csv,160.0,
+cherrybook.com_filtered.csv,9.0,
+pyramydair_2_filtered.csv,422.0,
