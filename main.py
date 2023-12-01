@@ -142,14 +142,14 @@ class Combiner:
         
         return df
     
-    def __save_to_csv(self) -> int: 
+    def __save_to_csv(self, index: int) -> int: 
         combined_df = pd.concat(self.dataframes).iloc[:COMBINED_LAST_INDEX]
 
         dates_ = str(date.today()).split("-")
 
         _date = f"{'.'.join(dates_[-2:])}.{dates_[0][-2:]}"
 
-        combined_name = f'{OUTPUT_PATH}{"combined_results_{}.csv".format(_date)}'
+        combined_name = f'{OUTPUT_PATH}{"combined_results_{}_{}.csv".format(_date, index)}'
 
         combined_df.to_csv(combined_name, index=False)
 
@@ -158,7 +158,7 @@ class Combiner:
         return len(combined_df)
 
     def run(self) -> None:
-        results_no = 0
+        results_no, index = 0, 1
 
         for file in self.files:
             name = file.split(INPUT_PATH)[-1]
@@ -176,7 +176,6 @@ class Combiner:
             columns = self.__get_columns(df.columns.values, stats)
 
             if columns is None: 
-                print(stats.error)
                 stats.products_count = None
 
                 self.file_stats.append(stats)
@@ -192,7 +191,7 @@ class Combiner:
             if len(df):
                 self.dataframes.append(df)
 
-                results_no = self.__save_to_csv()
+                results_no = self.__save_to_csv(index)
 
             else: 
                 self.logger.info("No products from file: {}".format(name))
@@ -202,7 +201,7 @@ class Combiner:
             if results_no >= COMBINED_LAST_INDEX:
                 self.logger.info("Maximum records per combined file reached.")
 
-                break
+                index += 1
 
         file_stats = [dataclasses.asdict(stats) for stats in self.file_stats] 
 

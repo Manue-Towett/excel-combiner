@@ -2,13 +2,16 @@ Combiner:INFO - *****Excel Combiner started*****
 Combiner:INFO - 6 input files found
 Combiner:INFO - Processing file: anntaylor.com_clothing_11.01.2023_new_filtered.csv
 Combiner:INFO - Processing file: cherrybook.com_cat_1_filtered.csv
-Combiner:INFO - 47 products saved to ./output/combined_results_11.30.23.csv
+Combiner:INFO - 47 products saved to ./output/combined_results_12.01.23_1.csv
 Combiner:INFO - Processing file: tiptopshoes.com_collections_boys_24112023_filtered.csv
-Combiner:INFO - 207 products saved to ./output/combined_results_11.30.23.csv
+Combiner:INFO - 207 products saved to ./output/combined_results_12.01.23_1.csv
 Combiner:INFO - Processing file: tiptopshoes.com_collections_girls_24112023_filtered.csv
-Combiner:INFO - 367 products saved to ./output/combined_results_11.30.23.csv
+Combiner:INFO - 300 products saved to ./output/combined_results_12.01.23_1.csv
+Combiner:INFO - Maximum records per combined file reached.
 Combiner:INFO - Processing file: cherrybook.com_filtered.csv
-Combiner:INFO - 376 products saved to ./output/combined_results_11.30.23.csv
+Combiner:INFO - 300 products saved to ./output/combined_results_12.01.23_2.csv
+Combiner:INFO - Maximum records per combined file reached.
 Combiner:INFO - Processing file: pyramydair_2_filtered.csv
-Combiner:INFO - 798 products saved to ./output/combined_results_11.30.23.csv
+Combiner:INFO - 300 products saved to ./output/combined_results_12.01.23_3.csv
+Combiner:INFO - Maximum records per combined file reached.
 Combiner:INFO - Done combining files.
