@@ -49,7 +49,9 @@ class Combiner:
     def __init__(self) -> None:
         self.logger = Logger(__class__.__name__)
         self.logger.info("*****Excel Combiner started*****")
-
+        
+        self.start_index = 0
+        self.last_index = COMBINED_LAST_INDEX
         self.file_stats: list[FileStats] = []
         self.dataframes: list[pd.DataFrame] = []
 
@@ -147,8 +149,10 @@ class Combiner:
         
         return df
     
-    def __save_to_csv(self, index: int) -> int: 
-        combined_df = pd.concat(self.dataframes).iloc[:COMBINED_LAST_INDEX]
+    def __save_to_csv(self, index: int) -> pd.DataFrame: 
+        combined_df = pd.concat(self.dataframes)
+
+        saved_df = combined_df.iloc[self.start_index:self.last_index]
 
         dates_ = str(date.today()).split("-")
 
@@ -156,14 +160,14 @@ class Combiner:
 
         combined_name = f'{OUTPUT_PATH}{"combined_results_{}_{}.csv".format(_date, index)}'
 
-        combined_df.to_csv(combined_name, index=False)
+        saved_df.to_csv(combined_name, index=False)
 
-        self.logger.info(f"{len(combined_df)} products saved to {combined_name}")
+        self.logger.info(f"{len(saved_df)} products saved to {combined_name}")
 
-        return len(combined_df)
+        return combined_df
 
     def run(self) -> None:
-        results_no, index = 0, 1
+        index = 1
 
         for file in self.files:
             name = file.split(INPUT_PATH)[-1]
@@ -196,17 +200,21 @@ class Combiner:
             if len(df):
                 self.dataframes.append(df)
 
-                results_no = self.__save_to_csv(index)
+                combined_df = self.__save_to_csv(index)
+
+                if len(combined_df) >= self.last_index:
+                    self.logger.info("Maximum records per combined file reached.")
+
+                    index += 1
+
+                    self.start_index = self.last_index
+
+                    self.last_index += self.last_index
 
             else: 
                 self.logger.info("No products from file: {}".format(name))
 
-            self.file_stats.append(stats) 
-
-            if results_no >= COMBINED_LAST_INDEX:
-                self.logger.info("Maximum records per combined file reached.")
-
-                index += 1
+            self.file_stats.append(stats)
 
         file_stats = [dataclasses.asdict(stats) for stats in self.file_stats] 
 

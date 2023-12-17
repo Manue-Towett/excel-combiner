@@ -1,239 +1,151 @@
 Combiner:INFO - *****Excel Combiner started*****
-Combiner:INFO - 81 input files found
-Combiner:INFO - Processing file: sandcloud_accessories_12.13.23.csv
-Combiner:INFO - No products from file: sandcloud_accessories_12.13.23.csv
-Combiner:INFO - Processing file: sandcloud_towels_12.13.23.csv
-Combiner:INFO - 1 products saved to ./output/combined_results_12.14.23_1.csv
-Combiner:INFO - Processing file: ryanspet_dog-treats_12.13.23.csv
-Combiner:INFO - 7 products saved to ./output/combined_results_12.14.23_1.csv
-Combiner:INFO - Processing file: rticoutdoors_outdoor-gears_12.13.23.csv
-Combiner:INFO - 21 products saved to ./output/combined_results_12.14.23_1.csv
-Combiner:INFO - Processing file: ryanspet_dental-care_12.13.23.csv
-Combiner:INFO - 27 products saved to ./output/combined_results_12.14.23_1.csv
-Combiner:INFO - Processing file: pureformulas_beauty-personal-care_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_1.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_health-aid_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_2.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_clearance_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_3.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: drugsupplystore_electronics_12.13.23.csv
-Combiner:INFO - No products from file: drugsupplystore_electronics_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rticoutdoors_accessories_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_5.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: drugsupplystore_colostomy-ostomy_12.13.23.csv
-Combiner:INFO - No products from file: drugsupplystore_colostomy-ostomy_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - 73 input files found
+Combiner:INFO - Processing file: ryanspet_nail-care_12.13.23_filtered.csv
+Combiner:INFO - 6 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: netrition_vitamins_12.13.23_filtered.csv
+Combiner:INFO - 582 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: llbean_bags-travel_12.13.23_filtered.csv
+Combiner:INFO - 590 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: hasbropulse_allproducts_12.13.23_filtered.csv
+Combiner:INFO - 2440 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_dog-toys_12.13.23_filtered.csv
+Combiner:INFO - 2446 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: footlocker_accessories_12.13.23_filtered.csv
+Combiner:INFO - 9934 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: purlisse_skincare_12.13.23_filtered.csv
+Combiner:INFO - 9966 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: rticoutdoors_soft-sided_12.13.23_filtered.csv
+Combiner:INFO - 9975 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: runnings_automotive-batteries_12.13.23_filtered.csv
+Combiner:INFO - 13636 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: walgreens_beauty_12.13.23_filtered.csv
+Combiner:INFO - 13830 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: dicks.com_new_filtered.csv
+Combiner:INFO - 13888 products saved to ./output/combined_results_12.17.23_1.csv
 Combiner:INFO - Processing file: anntaylor.com_clothing_11.01.2023_new_filtered.csv
-Combiner:INFO - Processing file: lego_lastchancetobuy_12.13.23.csv
-Combiner:INFO - No products from file: lego_lastchancetobuy_12.13.23.csv
+Combiner:INFO - 14893 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_training-cleaning_12.13.23_filtered.csv
+Combiner:INFO - 14899 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_clippers-blades_12.13.23_filtered.csv
+Combiner:INFO - 14905 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: tiptopshoes.com_collections_men_22112023_filtered.csv
+Combiner:INFO - 15065 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: rticoutdoors_apparel_12.13.23_filtered.csv
+Combiner:INFO - 15081 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: pureformulas_beauty-personal-care_12.13.23_filtered.csv
+Combiner:INFO - 16892 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_flea-tick_12.13.23_filtered.csv
+Combiner:INFO - 16898 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_grooming-shears_12.13.23_filtered.csv
+Combiner:INFO - 16904 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: rei_camping-hiking_12.13.23_filtered.csv
+Combiner:INFO - 20824 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: rticoutdoors_accessories_12.13.23_filtered.csv
+Combiner:INFO - 20859 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: dollargeneral_cleaning_12.13.23_filtered.csv
+Combiner:INFO - 21981 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: karenmillen_clothing_12.13.23_filtered.csv
+Combiner:INFO - 27360 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: cpooutlets_products_12.13.23_filtered.csv
+Combiner:INFO - 27381 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: netrition_diet-weightloss_12.13.23_filtered.csv
+Combiner:INFO - 28137 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: roseroseshop_cleansing_12.13.23_filtered.csv
+Combiner:INFO - 28244 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: stanley1913_hydration_12.13.23_filtered.csv
+Combiner:INFO - 28299 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: dollargeneral_health_12.13.23_filtered.csv
+Combiner:INFO - 28947 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: rticoutdoors_totebags-duffles_12.13.23_filtered.csv
+Combiner:INFO - 28958 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_health-aid_12.13.23_filtered.csv
+Combiner:INFO - 28964 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_clippers-parts_12.13.23_filtered.csv
+Combiner:INFO - 28970 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: ryanspet_clearance_12.13.23_filtered.csv
+Combiner:INFO - 28976 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: sandcloud_sunscreen_12.13.23_filtered.csv
+Combiner:INFO - 28977 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - Processing file: officedepot_breakroom_11.20.23_filtered.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_12.17.23_1.csv
 Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: healthydirections_deals_12.13.23.csv
-Combiner:INFO - No products from file: healthydirections_deals_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_apparel_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_9.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_grooming-tools_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_10.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: netrition_herbs_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_11.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: netrition_diet-weightloss_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_12.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: netrition_vitamins_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_13.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: drugsupplystore_braces-support_12.13.23.csv
-Combiner:INFO - No products from file: drugsupplystore_braces-support_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: carolsdaughter_collections_12.13.23.csv
-Combiner:INFO - No products from file: carolsdaughter_collections_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_clippers-parts_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_16.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: purlisse_skincare_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_17.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dickssportinggoods_basketball-apparel_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_18.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_household-supplies_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_19.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: sandcloud_sunscreen_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_20.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_training-cleaning_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_21.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_outdoor-pet_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_22.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rticoutdoors_soft-sided_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_sale_12.14.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_24.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_personal-care_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_25.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: netrition_glutenfree_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_26.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: omcgear_climbing_12.13.23.csv
-Combiner:INFO - No products from file: omcgear_climbing_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: runnings_automotive-batteries_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_28.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: stanley1913_hydration_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_29.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: carealotpets_bird-supplies_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_30.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rei_cycling_12.13.23.csv
-Combiner:INFO - No products from file: rei_cycling_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: sandcloud_new-products_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_32.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: shein_automotive_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_33.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_pet_12.14.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_34.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rei_dog-gear_12.14.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_35.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_flea-tick_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_36.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: roseroseshop_cleansing_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_37.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: sandcloud_last-chance_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_38.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: sandcloud_blankets_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_39.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: everythingkitchens_tabletop_11.20.23_filtered.csv
+Combiner:INFO - 9950 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: ryanspet_dental-care_12.13.23_filtered.csv
+Combiner:INFO - 9956 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: carealotpets_bird-supplies_12.13.23_filtered.csv
+Combiner:INFO - 10134 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: ryanspet_outdoor-pet_12.13.23_filtered.csv
+Combiner:INFO - 10140 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: dollargeneral_apparel_12.13.23_filtered.csv
+Combiner:INFO - 10659 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: sandcloud_blankets_12.13.23_filtered.csv
+Combiner:INFO - 10660 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: ryanspet_eyecare_12.13.23_filtered.csv
+Combiner:INFO - 10671 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: dollargeneral_beauty_12.13.23_filtered.csv
+Combiner:INFO - 12555 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: officedepot_cleaning_11.20.23_filtered.csv
+Combiner:INFO - 20483 products saved to ./output/combined_results_12.17.23_2.csv
 Combiner:INFO - Processing file: cherrybook.com_cat_1_filtered.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_40.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_nail-care_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_41.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rei_camping-hiking_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_42.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - 20618 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: ryanspet_clippers-accessories_12.13.23_filtered.csv
+Combiner:INFO - 20624 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: everythingkitchens_kitchen-gadgets-tools-accessories-kitchenware_11.20.23_filtered.csv
+Combiner:INFO - 24030 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: ryanspet_supplements_12.13.23_filtered.csv
+Combiner:INFO - 24036 products saved to ./output/combined_results_12.17.23_2.csv
 Combiner:INFO - Processing file: tiptopshoes.com_collections_boys_24112023_filtered.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_43.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - 24196 products saved to ./output/combined_results_12.17.23_2.csv
 Combiner:INFO - Processing file: tiptopshoes.com_collections_girls_24112023_filtered.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_44.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - 24356 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: rticoutdoors_outdoor-gears_12.13.23_filtered.csv
+Combiner:INFO - 24370 products saved to ./output/combined_results_12.17.23_2.csv
 Combiner:INFO - Processing file: cherrybook.com_filtered.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_45.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: omcgear_footwear_12.13.23.csv
-Combiner:INFO - No products from file: omcgear_footwear_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - 24402 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: sandcloud_towels_12.13.23_filtered.csv
+Combiner:INFO - 24403 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: netrition_glutenfree_12.13.23_filtered.csv
+Combiner:INFO - 25468 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: dollargeneral_personal-care_12.13.23_filtered.csv
+Combiner:INFO - 26577 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: dollargeneral_sale_12.14.23_filtered.csv
+Combiner:INFO - 27525 products saved to ./output/combined_results_12.17.23_2.csv
 Combiner:INFO - Processing file: pyramydair_2_filtered.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_47.csv
+Combiner:INFO - 28570 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: sandcloud_last-chance_12.13.23_filtered.csv
+Combiner:INFO - 28571 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: netrition_herbs_12.13.23_filtered.csv
+Combiner:INFO - 28621 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: dollargeneral_pet_12.14.23_filtered.csv
+Combiner:INFO - 29226 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: walgreens_baby-kids_12.13.23_filtered.csv
+Combiner:INFO - 29240 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - Processing file: dollargeneral_household-supplies_12.13.23_filtered.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_12.17.23_2.csv
 Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_baby_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_48.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: orientaltrading_christmas_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_49.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_eyecare_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_50.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: llbean_bags-travel_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_51.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rticoutdoors_black-friday_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_52.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_cleaning_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_53.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_health_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_54.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: sandcloud_bath-towels_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_55.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_clippers-accessories_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_56.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_clippers-blades_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_57.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: karenmillen_clothing_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_58.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rticoutdoors_apparel_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_59.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_grooming-shears_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_60.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_cat-toys-treats_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_61.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: walgreens_beauty_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_62.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: omcgear_camping-hiking_12.13.23.csv
-Combiner:INFO - No products from file: omcgear_camping-hiking_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: sandcloud_collaborations_12.13.23.csv
-Combiner:INFO - No products from file: sandcloud_collaborations_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: footlocker_accessories_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_65.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: drugsupplystore_baby-care_12.13.23.csv
-Combiner:INFO - No products from file: drugsupplystore_baby-care_12.13.23.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rticoutdoors_totebags-duffles_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_67.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: cpooutlets_products_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_68.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: dollargeneral_beauty_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_69.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: walgreens_baby-kids_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_70.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_supplements_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_71.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: hasbropulse_allproducts_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_72.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: ryanspet_dog-toys_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_73.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: netrition_sports-nutrition_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_74.csv
-Combiner:INFO - Maximum records per combined file reached.
-Combiner:INFO - Processing file: rticoutdoors_drinkware_12.13.23.csv
-Combiner:INFO - 300 products saved to ./output/combined_results_12.14.23_75.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: rticoutdoors_drinkware_12.13.23_filtered.csv
+Combiner:INFO - 388 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: rticoutdoors_black-friday_12.13.23_filtered.csv
+Combiner:INFO - 424 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: dickssportinggoods_basketball-apparel_12.13.23_filtered.csv
+Combiner:INFO - 645 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: ryanspet_cat-toys-treats_12.13.23_filtered.csv
+Combiner:INFO - 651 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: shein_automotive_12.13.23_filtered.csv
+Combiner:INFO - 4109 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: sandcloud_new-products_12.13.23_filtered.csv
+Combiner:INFO - 4110 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: ryanspet_dog-treats_12.13.23_filtered.csv
+Combiner:INFO - 4116 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: dollargeneral_baby_12.13.23_filtered.csv
+Combiner:INFO - 4380 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: netrition_sports-nutrition_12.13.23_filtered.csv
+Combiner:INFO - 4382 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: ryanspet_grooming-tools_12.13.23_filtered.csv
+Combiner:INFO - 4388 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: sandcloud_bath-towels_12.13.23_filtered.csv
+Combiner:INFO - 4389 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - Processing file: rei_dog-gear_12.14.23_filtered.csv
+Combiner:INFO - 4492 products saved to ./output/combined_results_12.17.23_3.csv
 Combiner:INFO - Done combining files.
