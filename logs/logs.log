@@ -1,151 +1,596 @@
 Combiner:INFO - *****Excel Combiner started*****
-Combiner:INFO - 73 input files found
+Combiner:INFO - 290 input files found
 Combiner:INFO - Processing file: ryanspet_nail-care_12.13.23_filtered.csv
-Combiner:INFO - 6 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 6 products saved to ./output/combined_results_01.09.24_1.csv
 Combiner:INFO - Processing file: netrition_vitamins_12.13.23_filtered.csv
-Combiner:INFO - 582 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 582 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: torrid_active_1.8.24.csv
+Combiner:INFO - 762 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: tactics_sale_1.8.24.csv
+Combiner:INFO - 3900 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: torrid_curve_1.8.24.csv
+Combiner:INFO - 4620 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: bathandunwind_sale_1.9.24.csv
+Combiner:INFO - No products from file: bathandunwind_sale_1.9.24.csv
+Combiner:INFO - Processing file: walmart_pretend-play_1.9.24.csv
+Combiner:INFO - 5636 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: pacsun_womens-clothing_1.8.24.csv
+Combiner:INFO - No products from file: pacsun_womens-clothing_1.8.24.csv
+Combiner:INFO - Processing file: sanrio_new-arrivals_1.8.24.csv
+Combiner:INFO - 5651 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: torrid_jackets_1.8.24.csv
+Combiner:INFO - 5755 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: walmart_baby-clothes_1.8.24.csv
+Combiner:INFO - 6745 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: tacticalgear_military-gear_1.8.24.csv
+Combiner:INFO - 9384 products saved to ./output/combined_results_01.09.24_1.csv
 Combiner:INFO - Processing file: llbean_bags-travel_12.13.23_filtered.csv
-Combiner:INFO - 590 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 9392 products saved to ./output/combined_results_01.09.24_1.csv
 Combiner:INFO - Processing file: hasbropulse_allproducts_12.13.23_filtered.csv
-Combiner:INFO - 2440 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 11242 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: pureformulas_supplements_1.7.24.csv
+Combiner:INFO - 27291 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: torrid_swim_1.8.24.csv
+Combiner:INFO - 27321 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: walmart_sports-trading-cards_1.9.24.csv
+Combiner:INFO - 27749 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: allivet_calming_1.7.24.csv
+Combiner:INFO - 27795 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: pixibeauty_skintreats_1.8.24.csv
+Combiner:INFO - 27878 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: shoprescuespa_sales_1.8.24.csv
+Combiner:INFO - 28026 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: walmart_accessories_1.8.24.csv
+Combiner:INFO - 29022 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Processing file: walmart_starwars_1.9.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_1.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: walmart_fashion-dolls_1.8.24.csv
+Combiner:INFO - 1018 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: dickssportinggoods_fan-shop_1.8.24.csv
+Combiner:INFO - 1066 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_card-games_1.8.24.csv
+Combiner:INFO - 2066 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_action-figures_1.8.24.csv
+Combiner:INFO - 3066 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: ryanspet_dog-toys_12.13.23_filtered.csv
-Combiner:INFO - 2446 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 3072 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: footlocker_accessories_12.13.23_filtered.csv
-Combiner:INFO - 9934 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 10560 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_womens-plus_1.9.24.csv
+Combiner:INFO - 10679 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: purlisse_skincare_12.13.23_filtered.csv
-Combiner:INFO - 9966 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 10711 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: nrsworld_farm-ranch_1.8.24.csv
+Combiner:INFO - 10759 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: rticoutdoors_soft-sided_12.13.23_filtered.csv
-Combiner:INFO - 9975 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 10768 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_sports-collectibles_1.9.24.csv
+Combiner:INFO - 11197 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: runnings_automotive-batteries_12.13.23_filtered.csv
-Combiner:INFO - 13636 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 14858 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_girls-clothing_1.8.24.csv
+Combiner:INFO - 15855 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: walgreens_beauty_12.13.23_filtered.csv
-Combiner:INFO - 13830 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 16049 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: entertainmenthealth_transformers_1.7.24.csv
+Combiner:INFO - 16710 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: dicks.com_new_filtered.csv
-Combiner:INFO - 13888 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 16768 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: petco_cat-accessories_1.8.24.csv
+Combiner:INFO - No products from file: petco_cat-accessories_1.8.24.csv
+Combiner:INFO - Processing file: theisens_home-goods_1.8.24.csv
+Combiner:INFO - 21178 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: petco_cat-holiday-toys_1.8.24.csv
+Combiner:INFO - 21255 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_cocomelon_1.8.24.csv
+Combiner:INFO - 21686 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: pacsun_mens_1.8.24.csv
+Combiner:INFO - No products from file: pacsun_mens_1.8.24.csv
+Combiner:INFO - Processing file: dickssportinggoods_kids_1.8.24.csv
+Combiner:INFO - 21734 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: shoprescuespa_clean-beauty_1.8.24.csv
+Combiner:INFO - 21946 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: cpooutlets_products_1.8.24.csv
+Combiner:INFO - 21967 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: bornshoes_womens-shoes_1.8.24.csv
+Combiner:INFO - 21991 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: theisens_automotive_1.8.24.csv
+Combiner:INFO - 25253 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_games-puzzles_1.8.24.csv
+Combiner:INFO - 26595 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: bornshoes_mens-shoes_1.8.24.csv
+Combiner:INFO - 26619 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_baby-toddlers-toys_1.8.24.csv
+Combiner:INFO - 27653 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: shoprescuespa_home-wellness_1.8.24.csv
+Combiner:INFO - 27896 products saved to ./output/combined_results_01.09.24_2.csv
 Combiner:INFO - Processing file: anntaylor.com_clothing_11.01.2023_new_filtered.csv
-Combiner:INFO - 14893 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 28901 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: teeturtle_all-categories_1.9.24.csv
+Combiner:INFO - No products from file: teeturtle_all-categories_1.9.24.csv
+Combiner:INFO - Processing file: walmart_anime-collectibles_1.8.24.csv
+Combiner:INFO - 29898 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Processing file: walmart_softball_1.9.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_2.csv
+Combiner:INFO - Maximum records per combined file reached.
 Combiner:INFO - Processing file: ryanspet_training-cleaning_12.13.23_filtered.csv
-Combiner:INFO - 14899 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 862 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: walmart_6-12month-baby_1.8.24.csv
+Combiner:INFO - 1832 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: walmart_young-adult-shoes_1.9.24.csv
+Combiner:INFO - 2641 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: ryanspet_clippers-blades_12.13.23_filtered.csv
-Combiner:INFO - 14905 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 2647 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: pickleballcentral_pickleball-shoes_1.9.24.csv
+Combiner:INFO - No products from file: pickleballcentral_pickleball-shoes_1.9.24.csv
+Combiner:INFO - Processing file: sanrio_home_1.8.24.csv
+Combiner:INFO - 2679 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: tiptopshoes.com_collections_men_22112023_filtered.csv
-Combiner:INFO - 15065 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 2839 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: walmart_big-tall_1.8.24.csv
+Combiner:INFO - 3832 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: rticoutdoors_apparel_12.13.23_filtered.csv
-Combiner:INFO - 15081 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 3848 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: walmart_collectibles-action-figures_1.8.24.csv
+Combiner:INFO - 4845 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: pureformulas_beauty-personal-care_12.13.23_filtered.csv
-Combiner:INFO - 16892 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 6656 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: petco_holiday-dog-treats_1.8.24.csv
+Combiner:INFO - No products from file: petco_holiday-dog-treats_1.8.24.csv
+Combiner:INFO - Processing file: entertainmenthealth_statues_1.7.24.csv
+Combiner:INFO - 13304 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: ryanspet_flea-tick_12.13.23_filtered.csv
-Combiner:INFO - 16898 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 13310 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: ryanspet_grooming-shears_12.13.23_filtered.csv
-Combiner:INFO - 16904 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 13316 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: pixibeauty_bestsellers_1.8.24.csv
+Combiner:INFO - 13344 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: petco_aquarium-equipment_1.8.24.csv
+Combiner:INFO - No products from file: petco_aquarium-equipment_1.8.24.csv
+Combiner:INFO - Processing file: theisens_home-improvement_1.8.24.csv
+Combiner:INFO - 20167 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: rei_camping-hiking_12.13.23_filtered.csv
-Combiner:INFO - 20824 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 24087 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: nrsworld_cowboy-hats_1.8.24.csv
+Combiner:INFO - 24129 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Processing file: sanrio_promos-deals_1.8.24.csv
+Combiner:INFO - 24178 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: rticoutdoors_accessories_12.13.23_filtered.csv
-Combiner:INFO - 20859 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 24213 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: dollargeneral_cleaning_12.13.23_filtered.csv
-Combiner:INFO - 21981 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 25335 products saved to ./output/combined_results_01.09.24_3.csv
 Combiner:INFO - Processing file: karenmillen_clothing_12.13.23_filtered.csv
-Combiner:INFO - 27360 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_3.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: walmart_basketball_1.8.24.csv
+Combiner:INFO - No products from file: walmart_basketball_1.8.24.csv
+Combiner:INFO - Processing file: walmart_golf_1.9.24.csv
+Combiner:INFO - 1744 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: ecosmetics_nails_1.7.24.csv
+Combiner:INFO - 2233 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: theisens_lawn-garden_1.9.24.csv
+Combiner:INFO - 5579 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: tennisexpress_adidas_1.8.24.csv
+Combiner:INFO - 16583 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: walmart_boys-shoes_1.8.24.csv
+Combiner:INFO - 17574 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: petco_cat-litter-accessories_1.8.24.csv
+Combiner:INFO - 18213 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: cpooutlets_products_12.13.23_filtered.csv
-Combiner:INFO - 27381 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 18234 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: walmart_building-toys_1.8.24.csv
+Combiner:INFO - 19231 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: shoprescuespa_bodycare_1.8.24.csv
+Combiner:INFO - 19487 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: pacsun_new-arrivals_1.8.24.csv
+Combiner:INFO - No products from file: pacsun_new-arrivals_1.8.24.csv
+Combiner:INFO - Processing file: dickssportinggoods_gloves_1.8.24.csv
+Combiner:INFO - 19919 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: netrition_diet-weightloss_12.13.23_filtered.csv
-Combiner:INFO - 28137 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 20675 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: roseroseshop_cleansing_12.13.23_filtered.csv
-Combiner:INFO - 28244 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 20782 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: theisens_farm_1.8.24.csv
+Combiner:INFO - 24258 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: stanley1913_hydration_12.13.23_filtered.csv
-Combiner:INFO - 28299 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 24313 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: dollargeneral_health_12.13.23_filtered.csv
-Combiner:INFO - 28947 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 24961 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: rticoutdoors_totebags-duffles_12.13.23_filtered.csv
-Combiner:INFO - 28958 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 24972 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: ecosmetics_tools-brushes_1.8.24.csv
+Combiner:INFO - 25817 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: ryanspet_health-aid_12.13.23_filtered.csv
-Combiner:INFO - 28964 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 25823 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: petco_cat-deals_1.8.24.csv
+Combiner:INFO - 26997 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: torrid_shoes_1.8.24.csv
+Combiner:INFO - 27292 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: ryanspet_clippers-parts_12.13.23_filtered.csv
-Combiner:INFO - 28970 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 27298 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: torrid_tops_1.8.24.csv
+Combiner:INFO - 28289 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: shoecarnival_accessories_1.9.24.csv
+Combiner:INFO - 29297 products saved to ./output/combined_results_01.09.24_4.csv
 Combiner:INFO - Processing file: ryanspet_clearance_12.13.23_filtered.csv
-Combiner:INFO - 28976 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 29303 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Processing file: theisens_health-beauty_1.8.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_4.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: netrition_herbs_1.8.24.csv
+Combiner:INFO - 452 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: nrsworld_cowboy-boots_1.8.24.csv
+Combiner:INFO - 496 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: sandcloud_sunscreen_12.13.23_filtered.csv
-Combiner:INFO - 28977 products saved to ./output/combined_results_12.17.23_1.csv
+Combiner:INFO - 497 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: walmart_dog-toys_1.8.24.csv
+Combiner:INFO - 1601 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: entertainmenthealth_vehicles_1.7.24.csv
+Combiner:INFO - 2144 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: teeturtle_sale-fandoms_1.9.24.csv
+Combiner:INFO - No products from file: teeturtle_sale-fandoms_1.9.24.csv
+Combiner:INFO - Processing file: pacsun_gifts_1.8.24.csv
+Combiner:INFO - No products from file: pacsun_gifts_1.8.24.csv
+Combiner:INFO - Processing file: petco_holiday-dog-toys_1.8.24.csv
+Combiner:INFO - 2336 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: tactics_skate_1.8.24.csv
+Combiner:INFO - 4782 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: dickssportinggoods_hats_1.8.24.csv
+Combiner:INFO - 4830 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: officedepot_breakroom_11.20.23_filtered.csv
-Combiner:INFO - 30000 products saved to ./output/combined_results_12.17.23_1.csv
-Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - 11875 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: walmart_mens-shoes_1.9.24.csv
+Combiner:INFO - 12868 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: walmart_young-adult-beauty_1.9.24.csv
+Combiner:INFO - 13361 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: everythingkitchens_tabletop_11.20.23_filtered.csv
-Combiner:INFO - 9950 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - 17289 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: ryanspet_dental-care_12.13.23_filtered.csv
-Combiner:INFO - 9956 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - 17295 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: nrsworld_clearance-markdown_1.8.24.csv
+Combiner:INFO - 17335 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: carealotpets_bird-supplies_12.13.23_filtered.csv
-Combiner:INFO - 10134 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - 17513 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: petco_dog-food_1.8.24.csv
+Combiner:INFO - No products from file: petco_dog-food_1.8.24.csv
+Combiner:INFO - Processing file: walmart_transformers-action-figures_1.9.24.csv
+Combiner:INFO - 18157 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: ryanspet_outdoor-pet_12.13.23_filtered.csv
-Combiner:INFO - 10140 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - 18163 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: dollargeneral_apparel_12.13.23_filtered.csv
-Combiner:INFO - 10659 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - 18682 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: walmart_stuffed-plush-toys_1.9.24.csv
+Combiner:INFO - 19768 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: entertainmenthealth_tops_1.7.24.csv
+Combiner:INFO - 19912 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: walmart_funko-plush_1.8.24.csv
+Combiner:INFO - 20088 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: entertainmenthealth_tshirts_1.7.24.csv
+Combiner:INFO - 20270 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: walmart_arts-crafts-kids_1.8.24.csv
+Combiner:INFO - 21321 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: sandcloud_blankets_12.13.23_filtered.csv
-Combiner:INFO - 10660 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - 21322 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: dickssportinggoods_yard-games_1.9.24.csv
+Combiner:INFO - 21369 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: dickssportinggoods_NFL-sale_1.8.24.csv
+Combiner:INFO - 27369 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: tacticalgear_clothing_1.8.24.csv
+Combiner:INFO - 28521 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: walmart_baby-shoes_1.8.24.csv
+Combiner:INFO - 28976 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Processing file: ryanspet_eyecare_12.13.23_filtered.csv
-Combiner:INFO - 10671 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: dollargeneral_beauty_12.13.23_filtered.csv
-Combiner:INFO - 12555 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: officedepot_cleaning_11.20.23_filtered.csv
-Combiner:INFO - 20483 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: cherrybook.com_cat_1_filtered.csv
-Combiner:INFO - 20618 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: ryanspet_clippers-accessories_12.13.23_filtered.csv
-Combiner:INFO - 20624 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: everythingkitchens_kitchen-gadgets-tools-accessories-kitchenware_11.20.23_filtered.csv
-Combiner:INFO - 24030 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: ryanspet_supplements_12.13.23_filtered.csv
-Combiner:INFO - 24036 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: tiptopshoes.com_collections_boys_24112023_filtered.csv
-Combiner:INFO - 24196 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: tiptopshoes.com_collections_girls_24112023_filtered.csv
-Combiner:INFO - 24356 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: rticoutdoors_outdoor-gears_12.13.23_filtered.csv
-Combiner:INFO - 24370 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: cherrybook.com_filtered.csv
-Combiner:INFO - 24402 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: sandcloud_towels_12.13.23_filtered.csv
-Combiner:INFO - 24403 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: netrition_glutenfree_12.13.23_filtered.csv
-Combiner:INFO - 25468 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: dollargeneral_personal-care_12.13.23_filtered.csv
-Combiner:INFO - 26577 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: dollargeneral_sale_12.14.23_filtered.csv
-Combiner:INFO - 27525 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: pyramydair_2_filtered.csv
-Combiner:INFO - 28570 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: sandcloud_last-chance_12.13.23_filtered.csv
-Combiner:INFO - 28571 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: netrition_herbs_12.13.23_filtered.csv
-Combiner:INFO - 28621 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: dollargeneral_pet_12.14.23_filtered.csv
-Combiner:INFO - 29226 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: walgreens_baby-kids_12.13.23_filtered.csv
-Combiner:INFO - 29240 products saved to ./output/combined_results_12.17.23_2.csv
-Combiner:INFO - Processing file: dollargeneral_household-supplies_12.13.23_filtered.csv
-Combiner:INFO - 30000 products saved to ./output/combined_results_12.17.23_2.csv
+Combiner:INFO - 28987 products saved to ./output/combined_results_01.09.24_5.csv
+Combiner:INFO - Processing file: bathandunwind_men_1.9.24.csv
+Combiner:INFO - No products from file: bathandunwind_men_1.9.24.csv
+Combiner:INFO - Processing file: walmart_swimming_1.9.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_5.csv
 Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: petco_small-animal-accessories_1.8.24.csv
+Combiner:INFO - No products from file: petco_small-animal-accessories_1.8.24.csv
+Combiner:INFO - Processing file: walmart_STEAM_1.9.24.csv
+Combiner:INFO - 1072 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: walmart_wet-catfood_1.9.24.csv
+Combiner:INFO - 1720 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: dickssportinggoods_mens_1.8.24.csv
+Combiner:INFO - 14584 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: walmart_young-adult-accessories_1.9.24.csv
+Combiner:INFO - 15511 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: shoprescuespa_hair-makeup_1.8.24.csv
+Combiner:INFO - 15792 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: sanrio_bags-accessories_1.8.24.csv
+Combiner:INFO - 15832 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: entertainmenthealth_wallets_1.7.24.csv
+Combiner:INFO - 16272 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: dickssportinggoods_sale_1.8.24.csv
+Combiner:INFO - Processing file: walmart_girls-shoes_1.8.24.csv
+Combiner:INFO - 17266 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: pickleballcentral_balls_1.9.24.csv
+Combiner:INFO - No products from file: pickleballcentral_balls_1.9.24.csv
+Combiner:INFO - Processing file: dollargeneral_beauty_12.13.23_filtered.csv
+Combiner:INFO - 19150 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: sierra_women_1.7.24.csv
+Combiner:INFO - 22827 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: dickssportinggoods_nutrition-supplements_1.8.24.csv
+Combiner:INFO - 22976 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Processing file: officedepot_cleaning_11.20.23_filtered.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_6.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: tacticalgear_equipment_1.8.24.csv
+Combiner:INFO - 3160 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: cherrybook.com_cat_1_filtered.csv
+Combiner:INFO - 3295 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: nrsworld_ropes_1.8.24.csv
+Combiner:INFO - 3343 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: ryanspet_clippers-accessories_12.13.23_filtered.csv
+Combiner:INFO - 3349 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: tactics_accessories_1.8.24.csv
+Combiner:INFO - 3895 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: dickssportinggoods_womens-shoes_1.9.24.csv
+Combiner:INFO - 3913 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: everythingkitchens_kitchen-gadgets-tools-accessories-kitchenware_11.20.23_filtered.csv
+Combiner:INFO - 7319 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_action-role-play_1.8.24.csv
+Combiner:INFO - 8317 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_socks_1.9.24.csv
+Combiner:INFO - 9308 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: netrition_sports-nutrition_1.8.24.csv
+Combiner:INFO - 9333 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: ryanspet_supplements_12.13.23_filtered.csv
+Combiner:INFO - 9339 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: tiptopshoes.com_collections_boys_24112023_filtered.csv
+Combiner:INFO - 9499 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: sanrio_apparel_1.8.24.csv
+Combiner:INFO - 9533 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: tiptopshoes.com_collections_girls_24112023_filtered.csv
+Combiner:INFO - 9693 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_blaster-toys_1.8.24.csv
+Combiner:INFO - 10118 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: rticoutdoors_outdoor-gears_12.13.23_filtered.csv
+Combiner:INFO - 10132 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: cherrybook.com_filtered.csv
+Combiner:INFO - 10164 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: sandcloud_towels_12.13.23_filtered.csv
+Combiner:INFO - 10165 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: netrition_glutenfree_12.13.23_filtered.csv
+Combiner:INFO - 11230 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: dollargeneral_personal-care_12.13.23_filtered.csv
+Combiner:INFO - 12339 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: nrsworld_women_1.8.24.csv
+Combiner:INFO - 12382 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: petco_catfood-treat-deals_1.8.24.csv
+Combiner:INFO - 12843 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: dollargeneral_sale_12.14.23_filtered.csv
+Combiner:INFO - 13791 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: pyramydair_2_filtered.csv
+Combiner:INFO - 14836 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_sports-toys_1.9.24.csv
+Combiner:INFO - 15833 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: petco_clearance_1.8.24.csv
+Combiner:INFO - 16743 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: shoprescuespa_readytowear_1.8.24.csv
+Combiner:INFO - 17010 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_puzzles_1.9.24.csv
+Combiner:INFO - 18333 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: dickssportinggoods_hygiene-personal-care_1.8.24.csv
+Combiner:INFO - 18387 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: sandcloud_last-chance_12.13.23_filtered.csv
+Combiner:INFO - 18388 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: netrition_herbs_12.13.23_filtered.csv
+Combiner:INFO - 18438 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: netrition_diet-weightloss_1.8.24.csv
+Combiner:INFO - 19214 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: petco_dog-deals_1.8.24.csv
+Combiner:INFO - 21969 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: torrid_dresses_1.8.24.csv
+Combiner:INFO - 22149 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: teeturtle_all-plushies_1.9.24.csv
+Combiner:INFO - No products from file: teeturtle_all-plushies_1.9.24.csv
+Combiner:INFO - Processing file: dollargeneral_pet_12.14.23_filtered.csv
+Combiner:INFO - 22754 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: petco_aquarium_decor_1.8.24.csv
+Combiner:INFO - No products from file: petco_aquarium_decor_1.8.24.csv
+Combiner:INFO - Processing file: sanrio_plush-toys_1.8.24.csv
+Combiner:INFO - 22786 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walgreens_baby-kids_12.13.23_filtered.csv
+Combiner:INFO - 22800 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: perpetualkid_best-seller_1.9.24.csv
+Combiner:INFO - 23207 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_womens-shoes_1.9.24.csv
+Combiner:INFO - 24206 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_womens-accessories_1.9.24.csv
+Combiner:INFO - 25206 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_action-figures-playsets_1.8.24.csv
+Combiner:INFO - 26217 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: hasbropulse_allproducts_1.9.24.csv
+Combiner:INFO - 28092 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_baby-toiletries-healthcare_1.8.24.csv
+Combiner:INFO - 28648 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_deals_1.8.24.csv
+Combiner:INFO - 28818 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: nrsworld_kids_1.8.24.csv
+Combiner:INFO - 28852 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_maternity-clothing_1.9.24.csv
+Combiner:INFO - 29377 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_collectibles-dolls_1.8.24.csv
+Combiner:INFO - 29817 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Processing file: walmart_doll-playsets_1.8.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_7.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: netrition_glutenfree_1.8.24.csv
+Combiner:INFO - 1905 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: walmart_dog-grooming_1.8.24.csv
+Combiner:INFO - 2901 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: walmart_baby-dolls_1.8.24.csv
+Combiner:INFO - 3456 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: nrsworld_animal_1.8.24.csv
+Combiner:INFO - No products from file: nrsworld_animal_1.8.24.csv
+Combiner:INFO - Processing file: dollargeneral_household-supplies_12.13.23_filtered.csv
+Combiner:INFO - 4584 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: pacsun_kids_1.8.24.csv
+Combiner:INFO - No products from file: pacsun_kids_1.8.24.csv
+Combiner:INFO - Processing file: dickssportinggoods_womens_1.9.24.csv
+Combiner:INFO - 18129 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: torrid_sale_1.8.24.csv
+Combiner:INFO - 20889 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: walmart_baseball_1.8.24.csv
+Combiner:INFO - 21888 products saved to ./output/combined_results_01.09.24_8.csv
 Combiner:INFO - Processing file: rticoutdoors_drinkware_12.13.23_filtered.csv
-Combiner:INFO - 388 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 21908 products saved to ./output/combined_results_01.09.24_8.csv
 Combiner:INFO - Processing file: rticoutdoors_black-friday_12.13.23_filtered.csv
-Combiner:INFO - 424 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 21944 products saved to ./output/combined_results_01.09.24_8.csv
 Combiner:INFO - Processing file: dickssportinggoods_basketball-apparel_12.13.23_filtered.csv
-Combiner:INFO - 645 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 22165 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: tennisexpress_nike-apparel_1.8.24.csv
+Combiner:INFO - 27289 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: pacsun_ps-reserve_1.8.24.csv
+Combiner:INFO - No products from file: pacsun_ps-reserve_1.8.24.csv
+Combiner:INFO - Processing file: walmart_boys-clothing_1.8.24.csv
+Combiner:INFO - 28275 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: torrid_bottoms_1.8.24.csv
+Combiner:INFO - 28575 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: walmart_young-adult-clothing_1.9.24.csv
+Combiner:INFO - 29574 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Processing file: walmart_mens-accessories_1.9.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_8.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: walmart_football_1.8.24.csv
+Combiner:INFO - 1052 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: walmart_kids-family-games_1.9.24.csv
+Combiner:INFO - 2051 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: hellobello_all-products_1.7.24.csv
+Combiner:INFO - 2124 products saved to ./output/combined_results_01.09.24_9.csv
 Combiner:INFO - Processing file: ryanspet_cat-toys-treats_12.13.23_filtered.csv
-Combiner:INFO - 651 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 2130 products saved to ./output/combined_results_01.09.24_9.csv
 Combiner:INFO - Processing file: shein_automotive_12.13.23_filtered.csv
-Combiner:INFO - 4109 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 5588 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: walmart_dry-catfood_1.8.24.csv
+Combiner:INFO - 5917 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: nrsworld_mens_1.8.24.csv
+Combiner:INFO - 5958 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: walmart_womens-clothing_1.9.24.csv
+Combiner:INFO - 6955 products saved to ./output/combined_results_01.09.24_9.csv
 Combiner:INFO - Processing file: sandcloud_new-products_12.13.23_filtered.csv
-Combiner:INFO - 4110 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 6956 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: perpetualkid_bath-body_1.9.24.csv
+Combiner:INFO - 7038 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: walmart_wet-dogfood_1.9.24.csv
+Combiner:INFO - 7517 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: walmart_0-3month-baby_1.8.24.csv
+Combiner:INFO - 8490 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: ecosmetics_bath-body_1.7.24.csv
+Combiner:INFO - 13021 products saved to ./output/combined_results_01.09.24_9.csv
 Combiner:INFO - Processing file: ryanspet_dog-treats_12.13.23_filtered.csv
-Combiner:INFO - 4116 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 13027 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Processing file: fye_kids_1.3.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_9.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: tacticalgear_footwear_1.8.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_10.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: torrid_sweaters_1.8.24.csv
+Combiner:INFO - 5959 products saved to ./output/combined_results_01.09.24_11.csv
+Combiner:INFO - Processing file: pickleballcentral_apparel_1.9.24.csv
+Combiner:INFO - No products from file: pickleballcentral_apparel_1.9.24.csv
+Combiner:INFO - Processing file: dickssportinggoods_fan-gifts_1.6.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_11.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: walmart_mens-clothing_1.9.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_12.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: ecosmetics_hair_1.7.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_13.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: torrid_jeans_1.8.24.csv
+Combiner:INFO - 9609 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: gnc_vitamins-supplements_1.7.24.csv
+Combiner:INFO - 9656 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: pickleballcentral_accessories_1.9.24.csv
+Combiner:INFO - No products from file: pickleballcentral_accessories_1.9.24.csv
+Combiner:INFO - Processing file: entertainmenthealth_vinyl-figures_1.7.24.csv
+Combiner:INFO - 11248 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: torrid_work-wear_1.8.24.csv
+Combiner:INFO - 11548 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: netrition_vitamins_1.8.24.csv
+Combiner:INFO - 12137 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: walmart_party-games_1.9.24.csv
+Combiner:INFO - 12949 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: walmart_dry-dogfood_1.8.24.csv
+Combiner:INFO - 13678 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: dickssportinggoods_holiday-gift_1.8.24.csv
+Combiner:INFO - 18873 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: dickssportinggoods_shoe-footcare_1.9.24.csv
+Combiner:INFO - 18920 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: pacsun_sale_1.8.24.csv
+Combiner:INFO - No products from file: pacsun_sale_1.8.24.csv
+Combiner:INFO - Processing file: alaffia_all_1.8.24.csv
+Combiner:INFO - 19023 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: petco_fish-deals_1.8.24.csv
+Combiner:INFO - No products from file: petco_fish-deals_1.8.24.csv
+Combiner:INFO - Processing file: tactics_clothing_1.8.24.csv
+Combiner:INFO - 22681 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: tactics_snowboard_1.8.24.csv
+Combiner:INFO - 24534 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: bathandunwind_wellbeing_1.9.24.csv
+Combiner:INFO - No products from file: bathandunwind_wellbeing_1.9.24.csv
+Combiner:INFO - Processing file: walmart_cars-trains-drones_1.8.24.csv
+Combiner:INFO - 25694 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: petco_home-holidays_1.8.24.csv
+Combiner:INFO - No products from file: petco_home-holidays_1.8.24.csv
+Combiner:INFO - Processing file: tacticalgear_deals_1.8.24.csv
+Combiner:INFO - 26534 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: walmart_pawpatrol_1.9.24.csv
+Combiner:INFO - 27529 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: walmart_dog-health-wellness_1.8.24.csv
+Combiner:INFO - 28518 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: bathandunwind_face_1.9.24.csv
+Combiner:INFO - No products from file: bathandunwind_face_1.9.24.csv
+Combiner:INFO - Processing file: entertainmenthealth_vehicles-diecast_1.7.24.csv
+Combiner:INFO - 29242 products saved to ./output/combined_results_01.09.24_14.csv
 Combiner:INFO - Processing file: dollargeneral_baby_12.13.23_filtered.csv
-Combiner:INFO - 4380 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 29506 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: petco_smallpet-holiday-shop_1.8.24.csv
+Combiner:INFO - No products from file: petco_smallpet-holiday-shop_1.8.24.csv
 Combiner:INFO - Processing file: netrition_sports-nutrition_12.13.23_filtered.csv
-Combiner:INFO - 4382 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 29508 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Processing file: ecosmetics_skincare_1.7.24.csv
+Combiner:INFO - 30000 products saved to ./output/combined_results_01.09.24_14.csv
+Combiner:INFO - Maximum records per combined file reached.
+Combiner:INFO - Processing file: bathandunwind_bath-body_1.9.24.csv
+Combiner:INFO - No products from file: bathandunwind_bath-body_1.9.24.csv
+Combiner:INFO - Processing file: tactics_shoes_1.8.24.csv
+Combiner:INFO - 9744 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: dickssportinggoods_youth-shoes_1.9.24.csv
+Combiner:INFO - 10680 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: pickleballcentral_deals_1.9.24.csv
+Combiner:INFO - No products from file: pickleballcentral_deals_1.9.24.csv
 Combiner:INFO - Processing file: ryanspet_grooming-tools_12.13.23_filtered.csv
-Combiner:INFO - 4388 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 10686 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: ecosmetics_men_1.7.24.csv
+Combiner:INFO - 12849 products saved to ./output/combined_results_01.09.24_15.csv
 Combiner:INFO - Processing file: sandcloud_bath-towels_12.13.23_filtered.csv
-Combiner:INFO - 4389 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 12850 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: walmart_toy-deals_1.9.24.csv
+Combiner:INFO - 13870 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: dickssportinggoods_socks_1.9.24.csv
+Combiner:INFO - 14782 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: petco_smallpet-toys-accessories_1.8.24.csv
+Combiner:INFO - No products from file: petco_smallpet-toys-accessories_1.8.24.csv
+Combiner:INFO - Processing file: tennisexpress_fila-apparel_1.8.24.csv
+Combiner:INFO - 17554 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: dickssportinggoods_mens-shoes_1.8.24.csv
+Combiner:INFO - 17586 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: shoprescuespa_skincare_1.8.24.csv
+Combiner:INFO - 17807 products saved to ./output/combined_results_01.09.24_15.csv
 Combiner:INFO - Processing file: rei_dog-gear_12.14.23_filtered.csv
-Combiner:INFO - 4492 products saved to ./output/combined_results_12.17.23_3.csv
+Combiner:INFO - 17910 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: bathandunwind_hair_1.9.24.csv
+Combiner:INFO - No products from file: bathandunwind_hair_1.9.24.csv
+Combiner:INFO - Processing file: nrsworld_horse-tack_1.8.24.csv
+Combiner:INFO - 17938 products saved to ./output/combined_results_01.09.24_15.csv
+Combiner:INFO - Processing file: petco_dog-holiday-accessories_1.8.24.csv
+Combiner:INFO - No products from file: petco_dog-holiday-accessories_1.8.24.csv
+Combiner:INFO - Processing file: sanrio_collaborations_1.8.24.csv
+Combiner:INFO - 17953 products saved to ./output/combined_results_01.09.24_15.csv
 Combiner:INFO - Done combining files.

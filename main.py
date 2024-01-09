@@ -209,7 +209,7 @@ class Combiner:
 
                     self.start_index = self.last_index
 
-                    self.last_index += self.last_index
+                    self.last_index += COMBINED_LAST_INDEX
 
             else: 
                 self.logger.info("No products from file: {}".format(name))
